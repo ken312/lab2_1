@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab2_1</string>
+    <string name="message">Enter your message here</string>
+    <string name="send">Send</string>
+    <string name="name">Name</string>
+    <string name="mesage">Message</string>
+    <string name="age">Age</string>
+    <string name="send1">Send</string>
+</resources>
